@@ -1,11 +1,7 @@
 require 'active_support/all'
 require 'pry'
 
-@candidates = array
 
-candidate = hash 
-@candidates[0] 
-@candidates[1]
 
 @candidates = [
   {
